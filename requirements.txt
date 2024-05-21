@@ -1,0 +1,4 @@
+boto3==1.34.108
+botocore==1.34.108
+streamlit==1.33.0
+pillow==9.5.0
